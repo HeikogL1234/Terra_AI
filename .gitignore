@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# YOLO / Ultralytics
+*.pt
+runs/
+weights/
+
+# Images and generated data
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Datasets
+datasets/
+dataset/
+data/
+
+# Blender
+*.blend
+*.blend1
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
