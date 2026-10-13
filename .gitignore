@@ -21,8 +21,11 @@ weights/
 
 # Datasets
 datasets/
-dataset/
-data/
+# dataset/
+
+# Terra_AI experiment data
+!data/
+!data/*.png
 
 # Blender
 *.blend
